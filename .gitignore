@@ -1,0 +1,12 @@
+data
+aghelinejad2017a.pdf
+aghelinejad2019a.pdf
+shrouf2014a.pdf
+batistaabikarram2019.pdf
+
+/.idea/*
+!/.idea/.idea.*
+/.idea/.idea.*/*
+!/.idea/.idea.*/.idea
+/.idea/.idea.*/.idea/*
+!/.idea/.idea.*/.idea/runConfigurations

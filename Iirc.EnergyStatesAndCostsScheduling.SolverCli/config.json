@@ -1,0 +1,9 @@
+{
+  "randomSeed": 42,
+  "timeLimit": "00:01:00",
+  "numWorkers": 0,
+  "useSerializedExtendedInstance": true,
+
+  "solverName": "IlpSpaces",
+  "specializedSolverConfig": {}
+}
