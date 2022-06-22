@@ -13,7 +13,7 @@
     <ItemGroup>
       <PackageReference Include="Iirc.Utils" Version="0.8.0" />
       <PackageReference Include="Iirc.Utils.Gurobi" Version="0.3.0" />
-      <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     </ItemGroup>
 
     <ItemGroup>
